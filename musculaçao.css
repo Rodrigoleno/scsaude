@@ -1,0 +1,121 @@
+body{
+    background-image: url(Imagens/Fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 100%;
+    line-height: 1.5;
+    
+}
+
+.titulo-principal {
+    font-family:  'Odibee Sans', cursive;;
+    text-align: center;
+    background-color: rgb(247, 95, 7);
+    color:white;
+    padding: 1rem;
+    border-bottom: .5rem solid #000;
+    border: .6rem solid #000;;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+     background-image: url(Imagens/Fundo.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+    padding: 2%;
+    align-self: auto;
+    margin-right: 0%;
+    margin-left: 0%;
+    font-size: large;
+}
+
+
+li{
+    font-size: 120%;
+}
+
+blockquote {
+    background-color: whitesmoke;
+    border: .5em solid #C2CCCA;
+    padding: 2em;
+    margin: 50px;
+    width: 50ch;
+    box-sizing: border-box;
+    position: absolute;    
+    margin-left: auto;
+    top: auto;
+
+}
+
+
+
+
+img {
+    display: block;
+    margin-left: 60ch;
+    margin-right: auto;
+    position: absolute;
+    top: 39.9cm;
+    width: 55%;
+    height: 70%;
+}
+
+
+.rodape-pagina {
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 1em;
+    clear: right;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+    top: 35cm;
+    margin-left: 0cm;
+}
+
+
+.navegacao-site{
+    background-color: rgb(247, 95, 7);
+    position: absolute;
+    top: 1.5cm;
+    left: 14cm;
+    list-style:none;
+   
+    
+}
+
+ .menu, .menurincipal{
+     display: inline;
+     color: white;
+     text-decoration: none;
+     font-size: 110%; 
+     line-height: 15px;
+     word-spacing: 100px;
+     text-align: end;
+     
+     
+     
+      
+ }
+
+ .menu, .menurincipal:hover{
+     color: blue;
+ }
+
+ .videomusc {
+    display: block;
+    margin-left: 60ch;
+    margin-right: auto;
+    position: absolute;
+    top: 23cm;
+    width: 55%;
+    height: 70%;
+}
+    
+
+ 
